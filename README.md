@@ -10,6 +10,8 @@ If you want to can add a short BIO and projects you have committed to ... obviou
 
 Here's the deal you need to be living in South Africa now (2013-08-26)
 
+Ask Questions and introduce yourself here : https://github.com/kmf/flosscontrib.co.za/issues
+
 Please spread the word. 
 
 Inspired by this : http://codeafrica.org/github-africa/ and http://fischer.org.za/github
